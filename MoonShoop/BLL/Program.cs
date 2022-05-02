@@ -1,11 +1,10 @@
-﻿using DevExpress.Skins;
-using DevExpress.UserSkins;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MoonShoop
+namespace BLL
 {
     static class Program
     {
@@ -17,7 +16,7 @@ namespace MoonShoop
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmSanPham());
+            Application.Run(new Form1());
         }
     }
 }
