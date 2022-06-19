@@ -1,2 +1,0 @@
-C:\Users\Administrator\Documents\GitHub\private_object\demo\demo\bin\Debug\demo.exe.config
-C:\Users\Administrator\Documents\GitHub\myteamproject\demo\demo\bin\Debug\demo.exe.config
